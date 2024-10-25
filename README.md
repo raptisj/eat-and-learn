@@ -8,3 +8,6 @@ A collection of links. Engineering stuff
   
 ### RESTful API Design
 - [RESTful web API design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+
+### Auth
+- [A beginner's guide to OAuth 2.0](https://pilcrowonpaper.com/blog/oauth-guide/)

@@ -11,3 +11,6 @@ A collection of links. Engineering stuff
 
 ### Auth
 - [A beginner's guide to OAuth 2.0](https://pilcrowonpaper.com/blog/oauth-guide/)
+
+### Web Fundamentals
+- [Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process)

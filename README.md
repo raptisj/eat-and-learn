@@ -1,5 +1,5 @@
 # eat-and-learn
-A collection of links. Engineering stuff
+A collection of(hopefully timeless) links. Engineering stuff
 
 ---
 

@@ -15,6 +15,9 @@ A collection of(hopefully timeless) links. Engineering stuff
 ### Auth
 - [A beginner's guide to OAuth 2.0](https://pilcrowonpaper.com/blog/oauth-guide/)
 
+### Git
+- [Git - Beyond the Basics](https://4zm.org/2024/12/18/git-beyond-the-basics.html?)
+
 ### Web Fundamentals
 - [Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process)
 

@@ -23,5 +23,4 @@ A collection of(hopefully timeless) links. Engineering stuff
 - [Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process)
 
 ## Soft skills
-### Communication
-- [5 Frameworks To Master Communication And Influence As An Engineer](https://read.highgrowthengineer.com/p/5-frameworks-to-master-communication-and-influence)
+TBD
